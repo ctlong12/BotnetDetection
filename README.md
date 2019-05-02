@@ -16,8 +16,7 @@ Semester long research project focused on botnets and their detection methods us
 
 ### Random Forest
 
-<a target="_blank"><img src="http://i66.tinypic.com/258tqww.png" border="0" alt="Logistic Regression"></a>
-
+<a target="_blank"><img src="http://i67.tinypic.com/bfgq5h.jpg" border="0" alt="Random Forest"></a>
   For the second classification model we will be assigning a Random Forest Algorithm. Random Forest algorithms are a supervised classification algorithm. This algorithm creates the forest with a number of decision trees. The more trees in the forest the more in depth the forest looks. Random Forest is build off of the idea of bagging which is a method of repeatedly selecting data at random and then performing a decision tree classification method to it. The genius behind the Random Forest Algorithm is that each new tree in the algorithm is grown from the knowledge gained from the previous one. This method is highly accurate when applied to classification problems.
 
 ## The Results
@@ -26,7 +25,7 @@ Semester long research project focused on botnets and their detection methods us
 
 The results for the area under the cruve model (AUC), but the model still yielded some very interesting results. A few of the more notable relationships between the features happened to be between the number of failed validations and login attempts, and the current byte flow along with the packet flow. The Logistic Regression model did a good job accurately classifying the relationships between these features compared to others.
 
-<a target="_blank"><img src="http://i67.tinypic.com/358csuo.png" border="0" alt="Logistic Regression Model Results"></a>
+<a target="_blank"><img src="http://i66.tinypic.com/258tqww.png" border="0" alt="Logistic Regression"></a>
 
 #### Random Forest Results
 
