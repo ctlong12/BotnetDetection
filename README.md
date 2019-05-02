@@ -10,14 +10,15 @@ Semester long research project focused on botnets and their detection methods us
 
 ### Logistic Regression
 
-<a align = "center" target="_blank"><img alight = "right" width = "400" height = "350"src="http://i67.tinypic.com/16blmaa.png" border="0" alt="Logistic Regression"></a>
+
 
   To start the Logistic Regression model for botnet detection, specifying the independent and dependent variables in the model represented as , then from there plugging the into a sigmoid function. The sigmoid function creates a non-linear S-shaped curve where the curve has a finite limit of as approaches and 1 as approaches . Since the base case of the Sigmoid Function of is exactly 0.5, it is possible to accurately predict whether a variable is a 0 if its probability is less than 0.50, or a 1 is it is greater than 0.50. Mathematically this can be represented by taking our original value and plugging it into the Sigmoid Function represented by . From there it is possible to solve for the in terms of the Sigmoid Function which results in the equation . This equation will determine the probability and accurately classify the results. Luckily there are many library’s that are able to handle the heavy mathematics involved with this classification method.
 
 ### Random Forest
 
-<a target="_blank"><img src="http://i67.tinypic.com/bfgq5h.jpg" border="0" alt="Random Forest"></a>
-  For the second classification model we will be assigning a Random Forest Algorithm. Random Forest algorithms are a supervised classification algorithm. This algorithm creates the forest with a number of decision trees. The more trees in the forest the more in depth the forest looks. Random Forest is build off of the idea of bagging which is a method of repeatedly selecting data at random and then performing a decision tree classification method to it. The genius behind the Random Forest Algorithm is that each new tree in the algorithm is grown from the knowledge gained from the previous one. This method is highly accurate when applied to classification problems.
+<a align = "right" target="_blank"><img width = "400" height = "350"src="http://i67.tinypic.com/16blmaa.png" border="0" alt="Logistic Regression"></a>
+
+For the second classification model we will be assigning a Random Forest Algorithm. Random Forest algorithms are a supervised classification algorithm. This algorithm creates the forest with a number of decision trees. The more trees in the forest the more in depth the forest looks. Random Forest is build off of the idea of bagging which is a method of repeatedly selecting data at random and then performing a decision tree classification method to it. The genius behind the Random Forest Algorithm is that each new tree in the algorithm is grown from the knowledge gained from the previous one. This method is highly accurate when applied to classification problems.
 
 ## The Results
 
