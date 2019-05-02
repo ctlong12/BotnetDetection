@@ -1,6 +1,6 @@
 # Botnet Detection with Machine Learning
 
-Semester long research project focused on botnets and their detection methods using machine learning algorithms. The machine learning model was created in Python with NumPy and Panda libaraies.
+Semester-long research into botnets and their detection methods using machine learning algorithms. The machine learning model was created in Python with NumPy and Panda libraries.
 
 ## Abstract
 
