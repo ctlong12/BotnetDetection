@@ -16,4 +16,4 @@ To start the Logistic Regression model for botnet detection, specifying the inde
 
 ### Random Forest
 
-<a align="right" height = "200" width = "200" target="_blank"><img src="http://i67.tinypic.com/bfgq5h.png" border="0" alt="Random Forest"></a>
+<a target="_blank"><img align="right" width="200" height="200" src="http://i67.tinypic.com/bfgq5h.png" border="0" alt="Home page of the Sustainability Application"></a>
