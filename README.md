@@ -29,3 +29,8 @@ The results for the area under the cruve model (AUC), but the model still yielde
 <a target="_blank"><img src="http://i67.tinypic.com/358csuo.png" border="0" alt="Logistic Regression Model Results"></a>
 
 #### Random Forest Results
+
+The results from the Random Forest model stood out more than the Logistic Regression model. Once again the more notable relationships between the number of failed validations and login attempts. Even more outstanding was that the Random Forest Algorithm had better accuracy than the Logistic Regression model and the current byte flow along with the packet flow.
+Using the AUC scoring method we can see that the prediction results were better than that of the Logistic Regression. We went from the base rate model AUC of 50% and increased the odds of predicting the correct outcome to 86%.
+
+<a target="_blank"><img src="http://i67.tinypic.com/wwhus0.png" border="0" alt="Image and video hosting by TinyPic"></a>
