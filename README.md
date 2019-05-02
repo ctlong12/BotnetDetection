@@ -10,4 +10,6 @@ Malware and other phishing attempts are becoming more widely spread than ever be
 
 ### Random Forest
 
-ljdsnakdjsnfksnd skdj ksjd fkjs dfkj sdfkj sdkjf skd fksj dfkjsd fksjd f;skdfake df;sk f;aE JFsodin'soe FOAKSE FS
+[IMG]http://i67.tinypic.com/16blmaa.png[/IMG]
+
+To start the Logistic Regression model for botnet detection, specifying the independent and dependent variables in the model represented as , then from there plugging the into a sigmoid function. The sigmoid function creates a non-linear S-shaped curve where the curve has a finite limit of as approaches and 1 as approaches . Since the base case of the Sigmoid Function of is exactly 0.5, it is possible to accurately predict whether a variable is a 0 if its probability is less than 0.50, or a 1 is it is greater than 0.50. Mathematically this can be represented by taking our original value and plugging it into the Sigmoid Function represented by . From there it is possible to solve for the in terms of the Sigmoid Function which results in the equation . This equation will determine the probability and accurately classify the results. Luckily there are many library’s that are able to handle the heavy mathematics involved with this classification method.
