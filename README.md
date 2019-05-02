@@ -22,3 +22,10 @@ Semester long research project focused on botnets and their detection methods us
 
 ## The Results
 
+#### Logistic Regression Results
+
+The results for the area under the cruve model (AUC), but the model still yielded some very interesting results. A few of the more notable relationships between the features happened to be between the number of failed validations and login attempts, and the current byte flow along with the packet flow. The Logistic Regression model did a good job accurately classifying the relationships between these features compared to others.
+
+<a target="_blank"><img src="http://i67.tinypic.com/358csuo.png" border="0" alt="Logistic Regression Model Results"></a>
+
+#### Random Forest Results
